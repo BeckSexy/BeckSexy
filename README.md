@@ -2,7 +2,7 @@
 - 👀 I’m interested in Stolen Code
 - 🌱 I’m currently learning Beck
 - 💞️ I’m looking to collaborate on Almost nothing
-- 📫 How to reach me Beckettkernmount@gmail.com
+- 📫 How to reach me me@beckettk.com
 
 <!---
 BeckSexy/BeckSexy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
